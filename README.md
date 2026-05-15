@@ -70,6 +70,7 @@ I enjoy writing clean, maintainable code and designing efficient systems that so
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaansiraj)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://hassaan-portfolio-theta.vercel.app)  
+[![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white)](https://www.hassaansiraj.com)  
 [![Email](https://img.shields.io/badge/Email-work.hassaan.siraj%40gmail.com-red?logo=gmail&logoColor=white)](mailto:work.hassaan.siraj@gmail.com)
 
 ---
