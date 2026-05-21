@@ -1,14 +1,18 @@
-<!-- 🖼️ Cover GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Landscape coding GIF" />
-</p>
-
-# 👋 Hi, I'm Hassaan Siraj
-
-💻 **Full-Stack Engineer | Python, MERN Stack & Ruby on Rails Developer**
-
-With around 3 years of professional experience, I have built and shipped scalable, production-grade web applications in **healthcare technology**, **Web3 / blockchain**, and **AI-driven automation** domains.  
-I enjoy writing clean, maintainable code and designing efficient systems that solve real-world problems.
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle" width="60%">
+      <h1>👋 Hi, I'm Hassaan Siraj</h1>
+      <p>💻 <strong>Full-Stack Engineer | Python, MERN Stack &amp; Ruby on Rails Developer</strong></p>
+      <p>
+        With around 3 years of professional experience, I have built and shipped scalable, production-grade web applications in <strong>healthcare technology</strong>, <strong>Web3 / blockchain</strong>, and <strong>AI-driven automation</strong> domains.<br/>
+        I enjoy writing clean, maintainable code and designing efficient systems that solve real-world problems.
+      </p>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <img src="https://github.com/user-attachments/assets/56f45309-3315-4f5c-9a4b-427651682162" alt="Hassaan Siraj" width="320" />
+    </td>
+  </tr>
+</table>
 
 ---
 
